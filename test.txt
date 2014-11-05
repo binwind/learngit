@@ -1,4 +1,4 @@
-This is a git test file.
+This is a git test file, the first line.
 add the second line.
 add the third line.
 add the fourth line.
