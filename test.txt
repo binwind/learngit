@@ -6,4 +6,4 @@ this is the fifth line.
 this is the sixth line.
 add the seventh line.
 this is the eighth line.
-
+Git has a mutable index called stage.
