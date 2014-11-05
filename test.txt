@@ -8,4 +8,4 @@ add the seventh line.
 this is the eighth line.
 Git has a mutable index called stage.
 creating the dev branch.
-add branch feature1
+create feature1 branch
