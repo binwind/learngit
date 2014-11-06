@@ -9,3 +9,4 @@ this is the eighth line.
 Git has a mutable index called stage.
 creating the dev branch.
 create feature1 branch
+switch to dev branch
